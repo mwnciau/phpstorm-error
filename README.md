@@ -7,7 +7,7 @@
 3. Click the + in the top left to add a new one and select "From Docker, Vagrant..."
 4. Select the docker-compose option
 
-The error 
+The error appears as in `error-screenshot.png`.
 
 ## Fix
 
